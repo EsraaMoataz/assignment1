@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1519566789 source:d:\lecture(3,2)\data compression\assignment 1\phone list\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bitset>
+

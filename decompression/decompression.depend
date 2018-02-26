@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519597343 source:d:\lecture(3,2)\data compression\assignment 1\decompression\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
